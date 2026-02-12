@@ -14,7 +14,7 @@ Sistema web simples de pedidos de ração para pets.
 
 ## 🌐 Deploy
 Acesse o projeto online:
-https://giovsnavarro.github.io/petexpress/
+https://https://giovsnavarro.github.io/pet-zeus/
 
 ## 👩‍💻 Desenvolvido por
 Giovanna Navarro
